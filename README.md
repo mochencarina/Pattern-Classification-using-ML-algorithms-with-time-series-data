@@ -3,8 +3,6 @@ Given a raw dataset of foot force data in 5 minutes of walking with four classes
 
 Then train a supervised classifier to classify the training dataset created correctly using cross validation and finally test the trained model over a blind test dataset.
 
-Compared the time and space complexity graphs and trade-offs for various neural net layers and deep learning models
-
 Pipeline used :
 
 MATLAB for noise reduction, feature extraction (as it is least time consuming and good for signal procecssing).
